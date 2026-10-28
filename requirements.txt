@@ -1,0 +1,4 @@
+# Whisper pulls in PyTorch. For a GPU build of torch, install it first from
+# https://pytorch.org/get-started/locally/ and then run pip install -r requirements.txt
+openai-whisper>=20240930
+torch>=2.1
